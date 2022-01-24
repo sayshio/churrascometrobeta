@@ -22,7 +22,6 @@ Um simples programa que calcula a quantidade de carne e bebidas necessárias pra
 
 ## 🚀 Link para testar o projeto
 
-<a href="https://danielsouz4.github.io/churrascometro/">
 Clique aqui para testar!
 </a>
 
